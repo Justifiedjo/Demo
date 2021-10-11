@@ -1,0 +1,42 @@
+Name: Ugochi Bessing, 
+Age: 22, 
+level: 300, 
+faculty: 22, 
+Schhol Name: Nnamdi Aikiwe University, 
+
+Name: John, 
+Age: 34, 
+level: 100, 
+faculty: 34, 
+Schhol Name: Nnamdi Aikiwe University, 
+
+Name: Ugochi Bessing, 
+Age: 22, 
+level: 100, 
+faculty: 22, 
+Schhol Name: Nnamdi Aikiwe University, 
+
+Name: Ugochi Bessing, 
+Age: 22, 
+level: 100, 
+faculty: 22, 
+Schhol Name: Nnamdi Aikiwe University, 
+
+Name: Ugochi Bessing, 
+Age: 22, 
+level: 100, 
+faculty: 22, 
+Schhol Name: Nnamdi Aikiwe University, 
+
+Name: Ugochi Bessing, 
+Age: 22, 
+level: 100, 
+faculty: 22, 
+Schhol Name: Nnamdi Aikiwe University, 
+
+Name: Ugochi Bessing, 
+Age: 22, 
+level: 100, 
+faculty: 22, 
+Schhol Name: Nnamdi Aikiwe University, 
+
